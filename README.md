@@ -99,6 +99,7 @@ Geliştirici: <Arda Toraman>
 LinkedIn: [https://www.linkedin.com/in/arda-toraman-436297300/]
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](./asssets/img/mail.png=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](./asssets/img/web.png=App+Screenshot+Here)
 
   
