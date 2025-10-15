@@ -99,7 +99,7 @@ Geliştirici: <Arda Toraman>
 LinkedIn: [https://www.linkedin.com/in/arda-toraman-436297300/]
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](./asssets/img/mail.png=App+Screenshot+Here)
-![Uygulama Ekran Görüntüsü](./asssets/img/web.png=App+Screenshot+Here)
+![App Ss - Alt Metin](</asssets/img/mail.png>)
+![App Ss - Alt Metin](</asssets/img/web.png>)
 
   
