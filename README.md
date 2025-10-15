@@ -97,9 +97,13 @@ Bu proje hakkında daha fazla bilgi almak veya bağlantı kurmak isterseniz:
 Geliştirici: <Arda Toraman>
 
 LinkedIn: [https://www.linkedin.com/in/arda-toraman-436297300/]
+
 ## Ekran Görüntüleri
 
-![App Ss - Alt Metin](</asssets/img/mail.png>)
-![App Ss - Alt Metin](</asssets/img/web.png>)
+### Web Kontrol Paneli Arayüzü
+![Bot Kontrol Paneli](./assets/img/web.png)
+
+### E-posta Bildirimi Örneği
+![Yeni İlan E-posta Görünümü](./assets/img/mail.png)
 
   
