@@ -101,7 +101,7 @@ LinkedIn: [https://www.linkedin.com/in/arda-toraman-436297300/]
 ## Ekran Görüntüleri
 
 ### Web Kontrol Paneli Arayüzü
-![Bot Kontrol Paneli](./assets/img/web.png)
+![Bot Kontrol Paneli](/assets/img/web.png)
 
 ### E-posta Bildirimi Örneği
 ![Yeni İlan E-posta Görünümü](./assets/img/mail.png)
